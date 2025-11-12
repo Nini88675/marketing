@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1cbX20-RA44Ej2aDr2OFK8ezUB8VhYCl8
 """
 
-!pip install yt-dlp moviepy SpeechRecognition google-cloud-videointelligence opencv-python-headless numpy scikit-learn tqdm
+! pip install yt-dlp moviepy SpeechRecognition google-cloud-videointelligence opencv-python-headless numpy scikit-learn tqdm
 
-!apt-get update
-!apt-get install -y ffmpeg
+! pip apt-get update
+! pip apt-get install -y ffmpeg
 
 # ============================================================
 # 1️⃣ Import des librairies
